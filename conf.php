@@ -1,0 +1,7 @@
+<?php
+
+define('SHOPIFY_SHOP', 'fuel-me.myshopify.com');
+define('SHOPIFY_APP_API_KEY', '45a68d5d16914f7c14af77a68932eeb0');
+define('SHOPIFY_APP_PASSWORD', '1275c2bf794b42084db55f435003e1e1');
+define('SHOPIFY_APP_SECRET', 'c025e55b59b43f56f8aa9cdfe7782282e66a36842657e857151d9c022643017b');
+?>
